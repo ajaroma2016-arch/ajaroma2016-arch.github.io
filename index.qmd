@@ -1,7 +1,7 @@
 ---
 title: "Alleahrose Jaroma"
 subtitle: "Finance Major"
-# `IMG_9544 2.jpeg`
+# `IMG_9544 2.jpeg` Me volunteering at VOCAL.
 image: IMG_9544 2.jpeg
 about: # https://quarto.org/docs/websites/website-about.html
   template: jolla
@@ -15,7 +15,7 @@ about: # https://quarto.org/docs/websites/website-about.html
 
 ---
 
-A little bit about me and my life. 
+A little bit about me and my life. I have lived in five different states, Rhode Island, Georgia, South Carolina, Tennessee, and Florida. I love to travel and read books. I volunteer at VOCAL Voices of Change Animal League. 
 
 ## Education
 
