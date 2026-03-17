@@ -11,11 +11,12 @@ about: # https://quarto.org/docs/websites/website-about.html
       href: https://github.com
     - icon: linkedin
       text: LinkedIn
-      href: https://linkedin.com
+      href: https://www.linkedin.com/in/alleahrose-jaroma-44043230b
+
 ---
 
 A little bit about me and my life.
 
 ## Education
 
-University of South Floeida, St.Peatersberg \| FL \| Agust 2023 - present
+University of South Florida, St.Petersburg \| FL \| August 2023 - present
