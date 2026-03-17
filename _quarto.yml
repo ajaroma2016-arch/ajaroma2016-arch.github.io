@@ -11,7 +11,7 @@ website:
       - text: Home
         href: index.qmd
       - text: Homework
-        href: Homework3-1.qmd
+        href: homework.qmd
       
 format:
   html:
