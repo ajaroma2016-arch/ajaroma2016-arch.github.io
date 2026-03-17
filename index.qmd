@@ -1,21 +1,21 @@
 ---
 title: "Alleahrose Jaroma"
 subtitle: "Finance Major"
-# `profile.jpg` photo by Jan Tinneberg on https://unsplash.com
-image: profile.jpg
+# `IMG_9544 2.jpeg` photo by Jan Tinneberg on https://unsplash.com
+image: IMG_9544 2.jpeg
 about: # https://quarto.org/docs/websites/website-about.html
   template: jolla
   links:
     - icon: github
       text: Github
-      href: https://github.com
+      href: https://github.com/ajaroma2016-arch
     - icon: linkedin
       text: LinkedIn
       href: https://www.linkedin.com/in/alleahrose-jaroma-44043230b
 
 ---
 
-A little bit about me and my life.
+A little bit about me and my life. 
 
 ## Education
 
