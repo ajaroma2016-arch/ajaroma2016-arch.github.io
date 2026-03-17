@@ -2,7 +2,7 @@
 title: "Alleahrose Jaroma"
 subtitle: "Finance Major"
 # `IMG_9544 2.jpeg` photo by Jan Tinneberg on https://unsplash.com
-image: IMG_9544 2.jpeg
+image: ![My Photo](IMG_9544 2.jpeg)
 about: # https://quarto.org/docs/websites/website-about.html
   template: jolla
   links:
@@ -19,4 +19,4 @@ A little bit about me and my life.
 
 ## Education
 
-University of South Florida, St.Petersburg \| FL \| August 2023 - present
+University of South Florida, St. Petersburg \| FL \| August 2023 - present
